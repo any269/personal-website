@@ -1,0 +1,12 @@
+/*CSS document for homepage*/
+p{
+    font-size: 15px;
+}
+html{
+    background-color: #b3c8cf;
+    color: black;
+}
+h1{
+    text-align: center;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, 1px 1px 0 white, 1px 1px 0 white;
+}
